@@ -1,4 +1,4 @@
-# mshick dotfiles (personal holman fork)
+# ksoldau dotfiles (which are largely mshick dotfiles (personal holman fork))
 
 ## install
 
